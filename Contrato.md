@@ -59,7 +59,7 @@ Este contrato é celebrado na cidade de **Barretos**, no dia **11/03/2025**.
 Por meio da assinatura deste contrato, a empresa desenvolvedora, representada por seu responsável legal, compromete-se a cumprir todas as obrigações descritas neste documento.
 
 **Assinatura**: ________________________  
-**Nome**: Tecnologia Hotelaria Ltda.
+**Nome**: Tecnologia Hotelaria Ltda
 **Data**:  11/03/2025
 
 ## 9. **ASSINATURA DO CLIENTE**
