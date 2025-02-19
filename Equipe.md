@@ -18,7 +18,7 @@ Responsável pela comunicação e promoção do sistema desenvolvido para o hote
 - Criação de conteúdo para divulgação do sistema.
 - Análise de resultados de campanhas publicitárias e ajustando conforme necessário.
 
-## 3. **Luís Felipe Langi** - BDA (Business Data Analyst)
+## 3. **Luís Felipe Landi** - BDA (Business Data Analyst)
 Responsável por analisar dados de negócios, compreender as necessidades do hotel e fornecer insights para o desenvolvimento do sistema. Ele utilizará dados de desempenho, feedback dos usuários e outras métricas para melhorar as funcionalidades e a eficiência do sistema.
 
 ### Responsabilidades:
