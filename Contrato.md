@@ -4,7 +4,7 @@ Este contrato de desenvolvimento de sistema é celebrado entre as partes abaixo 
 
 ## 1. **DADOS DA EMPRESA DESENVOLVEDORA**
 
-**Razão Social**: Tecnologia Hotelaria Ltda.
+**Razão Social**: Tecnologia Hotelaria Ltda.  
 **CNPJ**: 12.345.678/0001-90  
 **Endereço**: Avenida C-Um  
 **Telefone**: (17) 91234-5678  
@@ -13,7 +13,7 @@ Este contrato de desenvolvimento de sistema é celebrado entre as partes abaixo 
 
 ## 2. **DADOS DO CLIENTE**
 
-**Razão Social**: Hotel Ipiranga
+**Razão Social**: Hotel Ipiranga  
 **CNPJ**: 98.765.432/0001-01  
 **Endereço**: Rua 30, 331  
 **Representante Legal**: Renata Ribeiro 
