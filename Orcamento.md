@@ -18,7 +18,7 @@ Este orçamento reflete os custos totais estimados para o desenvolvimento, imple
 |----------------------------------------|----------------------|-----------------|-------------|
 | Fernando Rangel (Analista de Suporte)  | 60 horas             | R$ 66,67        | R$ 4.000,00 |
 | João Vitor (Marketing)                 | 60 horas             | R$ 66,67        | R$ 4.000,00 |
-| Luís Felipe Langi (BDA)                | 60 horas             | R$ 66,67        | R$ 4.000,00 |
+| Luís Felipe Landi (BDA)                | 60 horas             | R$ 66,67        | R$ 4.000,00 |
 | Luiz Felipe Tatavitto (Programador)    | 60 horas             | R$ 66,67        | R$ 4.000,00 |
 
 ### **Total de Recursos Humanos**: R$ 16.000,00
