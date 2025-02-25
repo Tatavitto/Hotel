@@ -4,11 +4,11 @@ Este contrato de desenvolvimento de sistema é celebrado entre as partes abaixo 
 
 ## 1. **DADOS DA EMPRESA DESENVOLVEDORA**
 
-**Razão Social**: Tecnologia Hotelaria Ltda.  
+**Razão Social**: HotelSoft Ltda.  
 **CNPJ**: 12.345.678/0001-90  
 **Endereço**: Avenida C-Um  
 **Telefone**: (17) 91234-5678  
-**E-mail**: TecnologiaHotelaria@gmail.com  
+**E-mail**: HotelSoft@gmail.com  
 **Representantes Legais**: Fernando Rangel, João Vitor, Luís Felipe Langi, Luiz Felipe Tatavitto
 
 ## 2. **DADOS DO CLIENTE**
@@ -58,14 +58,14 @@ Este contrato é celebrado na cidade de **Barretos**, no dia **11/03/2025**.
 
 Por meio da assinatura deste contrato, a empresa desenvolvedora, representada por seu responsável legal, compromete-se a cumprir todas as obrigações descritas neste documento.
 
-**Assinatura**: ________________________  
-**Nome**: Tecnologia Hotelaria Ltda.  
+**HotelSoft**  
+**Nome**: HotelSoft Ltda.   
 **Data**:  11/03/2025
 
 ## 9. **ASSINATURA DO CLIENTE**
 
 Por meio da assinatura deste contrato, o cliente compromete-se a cumprir todas as obrigações descritas neste documento.
 
-**Assinatura**: __Renata Martins Ribeiro  
+**Assinatura**: Renata Martins Ribeiro    
 **Nome**: Renata Ribeiro    
 **Data**: 11/03/2025  
