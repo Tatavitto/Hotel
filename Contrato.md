@@ -2,6 +2,8 @@
 
 Este contrato de desenvolvimento de sistema é celebrado entre as partes abaixo identificadas:
 
+![Image](https://github.com/user-attachments/assets/2a292398-71c4-49dd-b8dc-f3ca83e1d60a)
+
 ## 1. **DADOS DA EMPRESA DESENVOLVEDORA**
 
 **Razão Social**: HotelSoft Ltda.  
