@@ -66,6 +66,6 @@ Por meio da assinatura deste contrato, a empresa desenvolvedora, representada po
 
 Por meio da assinatura deste contrato, o cliente compromete-se a cumprir todas as obrigações descritas neste documento.
 
-**Assinatura**: ________________________  
+**Assinatura**: __Renata Martins Ribeiro____  
 **Nome**: Renata Ribeiro    
 **Data**: 11/03/2025  
