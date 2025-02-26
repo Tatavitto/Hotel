@@ -42,13 +42,16 @@ Este orçamento reflete os custos totais estimados para o desenvolvimento, imple
 ### **Total Geral Estimado**: R$ 20.000,00
 
 ---
+## 5. **Esboçp de tela**
 
-## 5. **Observações**
+
+## 6. **Observações**
 - Todos os valores são estimativas e podem sofrer alterações conforme o desenvolvimento do projeto.
 - Qualquer alteração no escopo ou no cronograma pode impactar o orçamento.
 - Este orçamento não inclui custos imprevistos ou emergenciais.
 - O suporte pode ser renovado após 1 ano de serviço.
 
 ---
+
 
 Este orçamento visa fornecer uma visão clara dos custos esperados para o desenvolvimento e implementação do sistema de gestão do hotel. Ele pode ser ajustado conforme o andamento do projeto e mudanças nos requisitos.
