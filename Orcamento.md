@@ -50,7 +50,7 @@ Este orçamento reflete os custos totais estimados para o desenvolvimento, imple
 - Qualquer alteração no escopo ou no cronograma pode impactar o orçamento.
 - Este orçamento não inclui custos imprevistos ou emergenciais.
 - O suporte pode ser renovado após 1 ano de serviço.
-- 
+- A tela pode sofrer futuras alterações durante o período de desenvolvimento.
 
 ---
 
