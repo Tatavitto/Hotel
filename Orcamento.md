@@ -42,14 +42,15 @@ Este orçamento reflete os custos totais estimados para o desenvolvimento, imple
 ### **Total Geral Estimado**: R$ 20.000,00
 
 ---
-## 5. **Esboçp de tela**
-
+## 5. **Esboço de Tela**
+![Image](https://github.com/user-attachments/assets/1ca16772-1be0-47a8-a41d-4c8abf0b2931)  
 
 ## 6. **Observações**
 - Todos os valores são estimativas e podem sofrer alterações conforme o desenvolvimento do projeto.
 - Qualquer alteração no escopo ou no cronograma pode impactar o orçamento.
 - Este orçamento não inclui custos imprevistos ou emergenciais.
 - O suporte pode ser renovado após 1 ano de serviço.
+- 
 
 ---
 
