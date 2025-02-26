@@ -32,7 +32,13 @@ Este orçamento reflete os custos totais estimados para o desenvolvimento, imple
 
 ### **Total de Custos Operacionais**: R$ 4.000,00
 
-## 4. **Resumo Final do Orçamento**
+## 4. **Tecnologias Utilizadas**  
+
+Desenvolveremos um sistema desktop para gestão hoteleira utilizando Java na IDE NetBeans. O banco de dados será gerenciado pelo phpMyAdmin com MySQL, garantindo eficiência e segurança no armazenamento das informações. O sistema terá uma interface intuitiva e funcionalidades essenciais para otimizar a administração do hotel.
+##
+
+
+## 5. **Resumo Final do Orçamento**
 
 | Categoria                          | Valor Total (R$) |
 |------------------------------------|------------------|
@@ -42,10 +48,10 @@ Este orçamento reflete os custos totais estimados para o desenvolvimento, imple
 ### **Total Geral Estimado**: R$ 20.000,00
 
 ---
-## 5. **Esboço de Tela**
+## 6. **Esboço de Tela**
 ![Image](https://github.com/user-attachments/assets/31a23692-3be1-4b95-b74a-9c3c74a34795)  
 
-## 6. **Observações**
+## 7. **Observações**
 - Todos os valores são estimativas e podem sofrer alterações conforme o desenvolvimento do projeto.
 - Qualquer alteração no escopo ou no cronograma pode impactar o orçamento.
 - Este orçamento não inclui custos imprevistos ou emergenciais.
