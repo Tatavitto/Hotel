@@ -43,7 +43,7 @@ Este orçamento reflete os custos totais estimados para o desenvolvimento, imple
 
 ---
 ## 5. **Esboço de Tela**
-![Image](https://github.com/user-attachments/assets/1ca16772-1be0-47a8-a41d-4c8abf0b2931)  
+![Image](https://github.com/user-attachments/assets/31a23692-3be1-4b95-b74a-9c3c74a34795)  
 
 ## 6. **Observações**
 - Todos os valores são estimativas e podem sofrer alterações conforme o desenvolvimento do projeto.
