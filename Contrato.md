@@ -16,7 +16,7 @@ Este contrato de desenvolvimento de sistema é celebrado entre as partes abaixo 
 **Razão Social**: Hotel Ipiranga  
 **CNPJ**: 98.765.432/0001-01  
 **Endereço**: Rua 30, 331  
-**Representante Legal**: Renata Ribeiro 
+**Representante Legal**: Renata Martins Ribeiro 
 
 ## 3. **OBRIGAÇÕES DA DESENVOLVEDORA**
 
