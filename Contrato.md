@@ -33,7 +33,6 @@ O sistema a ser desenvolvido para o Hotel Ipiranga deverá incluir as seguintes 
 
 ### 4.1 **Cadastro de Reservas**
    - **Reservas Online**: Capacidade de integração com o site do hotel e OTAs (agências de viagem online).
-   - **Gestão de Disponibilidade**: Atualização automática da disponibilidade de quartos para evitar overbooking.
    - **Preços Dinâmicos**: Implementação de preços que variam conforme demanda, sazonalidade ou promoções.
 
 ### 4.2 **Check-in e Check-out Automatizados**
@@ -46,11 +45,10 @@ O sistema a ser desenvolvido para o Hotel Ipiranga deverá incluir as seguintes 
    - **Limpeza e Manutenção**: Solicitação e acompanhamento de tarefas de limpeza e manutenção.
 
 ### 4.4 **Gestão Financeira e Faturamento**
-   - **Controle de Contas**: Geração de faturas detalhadas para os hóspedes, incluindo extras.
    - **Pagamentos Integrados**: Integração com sistemas de pagamento para facilitar transações.
    - **Relatórios Financeiros**: Geração de relatórios financeiros detalhados.
 
-### 4.5 **Gestão de Clientes e CRM**
+### 4.5 **Gestão de Clientes**
    - **Cadastro de Hóspedes**: Armazenamento seguro de informações dos hóspedes.
    - **Histórico de Hóspedes**: Registro do histórico de visitas e preferências dos hóspedes.
 
@@ -63,12 +61,8 @@ O sistema a ser desenvolvido para o Hotel Ipiranga deverá incluir as seguintes 
    - **Análises de Desempenho**: Análise de KPIs para avaliar a performance do hotel.
 
 ### 4.8 **Gestão de Taxas e Tarifas**
-   - **Taxas de Serviço**: Aplicação de taxas de serviço e impostos automaticamente.
    - **Descontos e Promoções**: Gestão de promoções sazonais ou descontos personalizados.
 
-### 4.9 **Segurança e Compliance**
-   - **Controle de Acesso**: Sistema de autenticação e controle de permissões.
-   - **Proteção de Dados**: Conformidade com leis de proteção de dados como GDPR ou LGPD.
 
 ## 5. **OBRIGAÇÕES DO CLIENTE**
 
