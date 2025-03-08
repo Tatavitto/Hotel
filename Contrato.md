@@ -56,11 +56,7 @@ O sistema a ser desenvolvido para o Hotel Ipiranga deverá incluir as seguintes 
    - **Controle de Pessoal**: Monitoramento de turnos e horas trabalhadas.
    - **Tarefas e Responsabilidades**: Atribuição de tarefas específicas para funcionários.
 
-### 4.7 **Relatórios e Análises**
-   - **Relatórios Operacionais**: Relatórios sobre ocupação, RevPAR, etc.
-   - **Análises de Desempenho**: Análise de KPIs para avaliar a performance do hotel.
-
-### 4.8 **Gestão de Taxas e Tarifas**
+### 4.7 **Gestão de Taxas e Tarifas**
    - **Descontos e Promoções**: Gestão de promoções sazonais ou descontos personalizados.
 
 
