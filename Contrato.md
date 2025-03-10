@@ -14,8 +14,10 @@ Este contrato de desenvolvimento de sistema é celebrado entre as partes abaixo 
 ## 2. **DADOS DO CLIENTE**
 
 **Razão Social**: Hotel Ipiranga  
-**CNPJ**: 98.765.432/0001-01  
+**CNPJ**: 06.005.514-0001-16  
 **Endereço**: Rua 30, 331  
+**Telefone**: (17) 3322-3552   
+**E-mail**: Hotelipiranga@gmail.com  
 **Representante Legal**: Renata Martins Ribeiro 
 
 ## 3. **OBRIGAÇÕES DA DESENVOLVEDORA**
