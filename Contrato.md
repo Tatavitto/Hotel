@@ -104,3 +104,8 @@ Por meio da assinatura deste contrato, o cliente compromete-se a cumprir todas a
 **Assinatura**: Renata Martins Ribeiro    
 **Nome**: Renata Ribeiro    
 **Data**: 11/03/2025  
+
+
+
+
+** SEM VALOR LEGAL ** 
