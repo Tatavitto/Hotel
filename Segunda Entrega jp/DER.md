@@ -166,4 +166,4 @@ erDiagram
 |----------|------|-----------|
 | CodReserva | int | Chave estrangeira para `reserva` |
 | checkInRealizado | tinyint | Check-in realizado (1 = sim, 0 = não) |
-| check
+
