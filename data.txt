@@ -1,0 +1,18 @@
+String dataTexto = txtData.getText();
+SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+sdf.setLenient(false); 
+
+try {
+    Date data = sdf.parse(dataTexto);
+    Date hoje = new Date(); 
+
+    if (data.after(hoje)) {
+        JOptionPane.showMessageDialog(this, "Data de nascimento não pode ser no futuro.");
+        return;
+    }
+
+    hospede.setdataNasc(data);
+} catch (ParseException e) {
+    JOptionPane.showMessageDialog(this, "Data de nascimento inválida. Use o formato padrão dd/MM/yyyy.");
+    return; 
+}
